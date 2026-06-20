@@ -1,51 +1,70 @@
-# AI-Based-Customer-Support-Chatbot--Chandigarh-university
-A smart web-based AI healthcare chat platform connecting patients, clinicians, and researchers. Built with React &amp; Python. Capstone Project, Chandigarh University.
-# SmartChat AI: AI-Based Customer Support Chatbot 🏥
+# Getting Started with Create React App
 
-An advanced, cloud-based healthcare communication and analytics platform developed as a project at **Chandigarh University**. This application bridges the communication gap between patients, doctors, researchers, and pharmaceutical companies by providing an intuitive AI chat support ecosystem.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## 🚀 Project Overview
+In the project directory, you can run:
 
-SmartChat AI is a web-based chat platform designed to enable secure data sharing, real-time clinical collaboration, and data-driven healthcare decision-making. 
+### `npm start`
 
-### 👥 Stakeholder Benefits
-* **🏥 Doctors & Clinicians:** Access patient records instantly and collaborate globally in real time.
-* **👩‍⚕️ Patients:** Share medical history seamlessly and access conversational triage care 24/7.
-* **🔬 Researchers:** Access anonymized, real-world data streams for clinical and academic studies.
-* **💊 Pharmaceuticals:** Analyze live disease trends to optimize research and development (R&D).
-* **🏛 Government & Insurers:** Leverage robust data analytics to draft better health policies and resource planning.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
----
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## 🛠 Technology Stack
+### `npm test`
 
-* **Client Tier (Frontend):** React.js web application (Component-driven UI, responsive design)
-* **Middle Tier (Backend):** Python (Business logic, AI API integration, Web Services)
-* **Data Tier (Storage):** Secure, persistent relational/NoSQL database management system
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
----
+### `npm run build`
 
-## 📖 Key Features
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-* **Patient Intake:** Digital registration and secure medical history entry.
-* **Controlled Access:** Role-based access control (RBAC) to ensure unauthorized profiles cannot view private medical files.
-* **Collaboration Suite:** Real-time chat rooms and record sharing between medical experts and researchers.
-* **Instant Triage:** Conversational AI capabilities giving immediate, automated responses to lower patient wait times.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
----
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## 🏃‍♂️ How to Run the React Frontend
+### `npm run eject`
 
-Follow these quick steps to get the user interface up and running locally.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed on your machine (which includes `npm`).
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### Step-by-Step Setup
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-1. **Open your Terminal / Command Prompt.**
-2. **Navigate into the project directory:**
-```bash
-   cd "AI-Based Customer Support Chatbot"
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
